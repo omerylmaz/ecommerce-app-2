@@ -29,7 +29,7 @@ export const ProductData = [
             {
                 color: "green",
                 img: img8,
-                quantity: 1,
+                quantity: 4,
             },
             {
                 color: "red",

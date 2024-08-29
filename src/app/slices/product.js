@@ -7,7 +7,7 @@ const productsSlice = createSlice({
     name: 'products',
     initialState: {
         products: ProductData,
-        carts: ProductData.slice(2, 4),
+        carts: ProductData.slice(2, 6),
         favorites: ProductData.slice(1, 4),
         single: null,  // her bir ürün temsil edelr
 
